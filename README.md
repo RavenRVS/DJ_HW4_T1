@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 #### Создать базу данных в соответствии с настройками в файле <a href="https://github.com/RavenRVS/DJ_HW4_T1/blob/master/website/settings.py">settings.py</a> или заменить настройки базы данных на свои.
 
-#### Выполнить миграции. Провести миграцию:
+#### Провести миграцию:
 
 ```bash
 python manage.py migrate
